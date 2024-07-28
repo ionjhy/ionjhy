@@ -1,5 +1,7 @@
-## Hi there 👋
+# About me
 
+- 🌱 I’m currently learning C, Java, Python, and deep learning.
+  
 <!--
 **ionjhy/ionjhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
